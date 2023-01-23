@@ -1,0 +1,26 @@
+body{
+    background-color:bisque;
+}
+.h{
+    font-size: 23px;
+    width: 100%;
+    margin-top: 0px;
+    box-shadow: 5px 5px 5px rgb(99, 99, 99);
+}
+.s{
+    font-size: 15px;
+}
+#d{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: khaki;
+    color: darkorchid;
+    text-align: center;
+    line-height: 3;
+}
+canvas{
+    border: 5px solid springgreen;
+    border-radius: 100px;
+    box-shadow: 5px 5px 5px greenyellow;
+}
